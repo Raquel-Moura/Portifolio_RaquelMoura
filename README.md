@@ -15,7 +15,7 @@ Meu primeiro portifolio, feito atráves de uma video aula no YT, para apresentar
  <div>
 
 ## 💡 Tecnologias utilizadas 
-- HMTL;
+- HTML;
 - CSS;
 - JavaScript.
 <div style="display; inline_block"><br>
